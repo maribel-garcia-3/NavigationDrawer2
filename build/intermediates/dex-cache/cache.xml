@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-357d411ffb86afd96515e0242884dd06efc4a518.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-b113cb78935cdd6cfe0a4dde1d6fc116cfecc1cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-119869e4f767c2a23a7fd707c80cf70410f71f20.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-c733a37255b183a7a63225ca8133301931eeafbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-b342cc2993e7cef778c059bc48a89af714c64e04.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-7526af7b7792770435733ea79b150f98a13b921f.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-71f64a284656aebea01be8137126208a32d478d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e8efa5a6d4582d28a60af06fc5c3b775211ec5c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-d474d3b81391296f384308d6223bb74de41bef22.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-5cd9c8ca3a4c85f0b0cd250694c4ae0ef302b2ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-4010587ed374ea9115a1ce4e344e72a503b4d974.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-6a7fc62f4c6f4b67d6681766966cd7f118ff4611.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-61698b4ddcd2338a38820248c822ef1d9ac91dad.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-46d53fa6a6eecdbd90a6f7c4184256857df5eb0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-2b25b2294ece33ab0910efd44230bd04d8cf91a7.jar" />
+    </item>
+
+</items>

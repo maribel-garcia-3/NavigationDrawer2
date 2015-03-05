@@ -1,0 +1,9 @@
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\classes\debug
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-6a7fc62f4c6f4b67d6681766966cd7f118ff4611.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-357d411ffb86afd96515e0242884dd06efc4a518.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-b342cc2993e7cef778c059bc48a89af714c64e04.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-61698b4ddcd2338a38820248c822ef1d9ac91dad.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e8efa5a6d4582d28a60af06fc5c3b775211ec5c3.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-7526af7b7792770435733ea79b150f98a13b921f.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-b113cb78935cdd6cfe0a4dde1d6fc116cfecc1cc.jar
+C:\Users\maribel.garcia@televisatim.com\Desktop\NavigationDrawer2\Application\build\intermediates\pre-dexed\debug\classes-c733a37255b183a7a63225ca8133301931eeafbf.jar
