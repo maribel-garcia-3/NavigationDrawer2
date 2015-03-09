@@ -1444,10 +1444,11 @@ containing a value of this type.
         public static final int p7=0x7f020044;
         public static final int p8=0x7f020045;
         public static final int p9=0x7f020046;
-        public static final int saturn=0x7f020047;
-        public static final int tile=0x7f020048;
-        public static final int uranus=0x7f020049;
-        public static final int venus=0x7f02004a;
+        public static final int proyecto_simio=0x7f020047;
+        public static final int saturn=0x7f020048;
+        public static final int tile=0x7f020049;
+        public static final int uranus=0x7f02004a;
+        public static final int venus=0x7f02004b;
     }
     public static final class id {
         public static final int action_bar=0x7f090031;
